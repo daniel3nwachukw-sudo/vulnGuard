@@ -1,0 +1,2 @@
+cd /d C:\Users\holy1\VulnGuard\server
+npm run dev
